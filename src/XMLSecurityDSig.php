@@ -46,6 +46,7 @@ use RobRichards\XMLSecLibs\Utils\XPath as XPath;
  * @author    Robert Richards <rrichards@cdatazone.org>
  * @copyright 2007-2020 Robert Richards <rrichards@cdatazone.org>
  * @license   http://www.opensource.org/licenses/bsd-license.php  BSD License
+ * 3.1.2
  */
 
 class XMLSecurityDSig
