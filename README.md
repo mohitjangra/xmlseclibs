@@ -21,7 +21,7 @@ xmlseclibs requires PHP version 5.4 or greater. **5.6.24+ recommended for securi
 Install with [`composer.phar`](http://getcomposer.org).
 
 ```sh
-php composer.phar require "robrichards/xmlseclibs"
+php composer.phar require "mohitjangra/xmlseclibs"
 ```
 
 
